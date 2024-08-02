@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/8977/8977816.png" alt="Battery Save Icon" width="100"/> <br/>
-The bash script monitors battery status and sends a notification if the battery level is above 84% and the battery is charging.
-</p> 
+The bash script monitors battery status and sends a notification if the battery level is above 80% while charging, and plays an audio alert. It also provides a low battery warning with audio when the level drops below 54%.
+</p>
 
-
-![image](https://github.com/user-attachments/assets/ef5be220-c1fa-4b03-9539-58a0ba604f71)
+![image](Code_batcat_screenshot.png)
 
 ### crontab
 
