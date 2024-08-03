@@ -10,3 +10,10 @@ The bash script monitors battery status and sends a notification if the battery 
 ```
 */1 * * * * /usr/local/bin/battery-monitor.sh
 ```
+
+### Battery Monitor Enable/Disable Scripts
+
+This repository includes two scripts to manage the battery monitor cron job:
+
+- `disable-battery-monitor.sh`: Comments out the battery monitor cron job.
+- `enable-battery-monitor.sh`: Uncomments the battery monitor cron job.
