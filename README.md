@@ -17,3 +17,7 @@ This repository includes two scripts to manage the battery monitor cron job:
 
 - `disable-battery-monitor.sh`: Comments out the battery monitor cron job.
 - `enable-battery-monitor.sh`: Uncomments the battery monitor cron job.
+
+![image](Code_batcat_disable-battery.png)
+
+![image](Code_batcat_enable-battery.png)
