@@ -3,7 +3,7 @@
 The bash script monitors battery status and sends a notification if the battery level is above 80% while charging, and plays an audio alert. It also provides a low battery warning with audio when the level drops below 54%.
 </p>
 
-![image](Code_batcat_screenshot.png)
+![codesnap](https://github.com/user-attachments/assets/ad908fa1-8567-4300-a6ee-ca68286cbd0d)
 
 ### crontab
 
@@ -17,6 +17,7 @@ This repository includes two scripts to manage the battery monitor cron job:
 
 - `disable-battery-monitor.sh`: Comments out the battery monitor cron job.
 - `enable-battery-monitor.sh`: Uncomments the battery monitor cron job.
+
 
 ![image](Code_batcat_disable-battery.png)
 
